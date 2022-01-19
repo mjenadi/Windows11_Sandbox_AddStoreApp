@@ -6,9 +6,9 @@
 #You are not able to add microsoft store in your sandbox and maybe you want to enroll your sandbox in Intune with Company Portal app, follow this steps : 
 
 #1. Connect to your https://businessstore.microsoft.com/
-#2. Shop your app (offline) and donwload appxbundle (here it will be company portal, you can found all the sources iin this github)
-#3. Download all dependencies (required frameworks) :
-#4. Save this script :
+#2. Shop your app (offline) and donwload appxbundle (here it will be company portal)
+#3. Download all dependencies (required frameworks can be downloaded from this github) :
+#4. Download this script :
 
 $FullPathtoAppxbundle = "YourPathtoAppxBundle"
 $DependencyFolderPath = "YourDepencyFolderPath"
