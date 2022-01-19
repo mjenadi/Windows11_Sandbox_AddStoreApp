@@ -17,7 +17,7 @@ $Dependencies = Get-ChildItem -Path $DependencyFolderPath -Filter "*.appx*" | Se
 Add-AppxPackage -Path $FullPathtoAppxbundle -DependencyPath $Dependencies
 
 
-#5. copy all files and execute the script in the Windows 11 Sandbox
-
-#6. Lanch Company portal and enroll your Sandbox
+#5. Edit the path variable $FullPathtoAppxbundle and $DependencyFolderPath
+#6. copy all files and execute the script in the Windows 11 Sandbox
+#7. Lanch Company portal and enroll your Sandbox
 
