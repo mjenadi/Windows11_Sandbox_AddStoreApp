@@ -8,7 +8,7 @@
 #1. Connect to your https://businessstore.microsoft.com/
 #2. Shop your app (offline) and donwload appxbundle (here it will be company portal)
 #3. Download all dependencies (required frameworks can be downloaded from this github) :
-#4. Download this script :
+#4. Download script Add-StoreApp-Package.ps1 :
 
 $FullPathtoAppxbundle = "YourPathtoAppxBundle"
 $DependencyFolderPath = "YourDepencyFolderPath"
